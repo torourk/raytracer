@@ -5,3 +5,6 @@ authors = ["Tiernan O'Rourke <torourk@gmu.edu>"]
 edition = "2018"
 
 [dependencies]
+bitflags = "=1.0.4"
+png = "0.14.1"
+scoped_threadpool = "0.1.9"
