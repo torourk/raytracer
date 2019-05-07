@@ -3,6 +3,7 @@ name = "raytracer"
 version = "0.1.0"
 authors = ["Tiernan O'Rourke <torourk@gmu.edu>"]
 edition = "2018"
+license = "MIT"
 
 [dependencies]
 png = "0.14.1"
