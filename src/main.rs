@@ -24,8 +24,8 @@ mod trace;
 mod vector;
 
 // Image output size
-const WIDTH: u32 = 2048;
-const HEIGHT: u32 = 2048;
+const WIDTH: u32 = 1024;
+const HEIGHT: u32 = 1024;
 
 // Number of threads for thread pool
 const THREADS: u32 = 4;
